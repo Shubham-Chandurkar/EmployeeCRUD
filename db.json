@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "Sham",
+      "lastname": "Sundar",
+      "birthdate": "2023-07-02",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Google",
+      "jobExperience": 2,
+      "salary": 10,
+      "profile": "2.jpg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
